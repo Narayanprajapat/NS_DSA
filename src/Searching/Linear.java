@@ -23,3 +23,4 @@ public class Linear {
         System.out.println(Linear_Search(arr,n,key));
     }
 }
+// Compiler And Execution
